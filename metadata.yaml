@@ -1,0 +1,40 @@
+_repo: Cat-and-DogMemoirs-of-Puss-and-the-Captain_20868
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Weir, Harrison
+    alias: Weir, Harrison William
+    birthdate: 1824
+    deathdate: 1906
+    gutenberg_agent_id: '8210'
+    url: http://www.gutenberg.org/2009/agents/8210
+    wikipedia: http://en.wikipedia.org/wiki/Harrison_Weir
+covers:
+- cover_type: archival
+  image_path: 20868-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Maitland, Julia Charlotte
+    aliases:
+    - Barrett, Julia Charlotte
+    - Thomas, Julia Charlotte
+    deathdate: 1864
+    gutenberg_agent_id: '9579'
+    url: http://www.gutenberg.org/2009/agents/9579
+description: ''
+gutenberg_issued: '2007-03-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20868'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dogs -- Juvenile fiction'
+- !lcsh 'Cats -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Animal welfare -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+title: Cat and Dog; Or, Memoirs of Puss and the Captain
+url: http://www.gutenberg.org/ebooks/20868
